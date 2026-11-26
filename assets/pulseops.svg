@@ -1,0 +1,71 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="477" viewBox="0 0 1360 477" role="img" aria-label="PulseOps project card">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B33875"/>
+      <stop offset="100%" stop-color="#8F1D59"/>
+    </linearGradient>
+    <linearGradient id="topline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFC2D8"/>
+      <stop offset="100%" stop-color="#F000A8"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 30px Arial, Helvetica, sans-serif; fill: #FFF5FA; }
+      .subtitle { font: 600 17px Arial, Helvetica, sans-serif; fill: #FFE4EF; }
+      .badge { font: 600 13px Arial, Helvetica, sans-serif; fill: #FFF5FA; }
+      .body { font: 15px Arial, Helvetica, sans-serif; fill: #FFF5FA; }
+      .eyebrow { font: 700 10px Arial, Helvetica, sans-serif; letter-spacing: 2px; fill: #FFC2D8; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1358" height="475" rx="22" fill="url(#cardbg)" stroke="#52102F" stroke-width="2"/>
+  <rect x="2" y="2" width="1356" height="7" rx="4" fill="url(#topline)"/>
+
+  <g opacity=".22" fill="none" stroke="#FFD5E5" stroke-width="1.2">
+    <path d="M0 0 L110 80 L180 18 L255 92"/>
+    <path d="M1360 0 L1270 68 L1330 135"/>
+    <path d="M1180 0 L1270 68 L1215 145"/>
+  </g>
+
+  <g fill="#FFD5E5" opacity=".75">
+    <circle cx="110" cy="80" r="3"/>
+    <circle cx="180" cy="18" r="3"/>
+    <circle cx="1270" cy="68" r="3"/>
+    <circle cx="1330" cy="135" r="3"/>
+  </g>
+
+  <text x="32" y="42" class="eyebrow">FEATURED PROJECT</text>
+  <text x="32" y="88" class="title">PulseOps</text>
+  <text x="32" y="119" class="subtitle">Predictive API Intelligence Platform</text>
+
+  <rect x="34" y="150" width="78" height="30" rx="15" fill="#52102F" stroke="#E86AA5" stroke-width="1"/>
+  <text x="73" y="170" text-anchor="middle" class="badge">Python</text>
+
+  <rect x="122" y="150" width="78" height="30" rx="15" fill="#52102F" stroke="#E86AA5" stroke-width="1"/>
+  <text x="161" y="170" text-anchor="middle" class="badge">FastAPI</text>
+
+  <rect x="210" y="150" width="116" height="30" rx="15" fill="#52102F" stroke="#E86AA5" stroke-width="1"/>
+  <text x="268" y="170" text-anchor="middle" class="badge">scikit-learn</text>
+
+  <rect x="336" y="150" width="100" height="30" rx="15" fill="#52102F" stroke="#E86AA5" stroke-width="1"/>
+  <text x="386" y="170" text-anchor="middle" class="badge">SQLAlchemy</text>
+
+  <rect x="446" y="150" width="92" height="30" rx="15" fill="#52102F" stroke="#E86AA5" stroke-width="1"/>
+  <text x="492" y="170" text-anchor="middle" class="badge">Streamlit</text>
+
+  <circle cx="43" cy="209" r="4" fill="#E86AA5"/>
+  <text x="60" y="215" class="body">Developed a Random Forest forecaster and Isolation Forest anomaly detector.</text>
+
+  <circle cx="43" cy="249" r="4" fill="#E86AA5"/>
+  <text x="60" y="255" class="body">Reduced traffic-forecast MAE by 59.2% against a persistence baseline at the 12-hour horizon.</text>
+
+  <circle cx="43" cy="289" r="4" fill="#E86AA5"/>
+  <text x="60" y="295" class="body">Detected 40/40 held-out fault events, compared with 29 detected by a reactive threshold.</text>
+
+  <circle cx="43" cy="329" r="4" fill="#E86AA5"/>
+  <text x="60" y="335" class="body">Implemented FastAPI and SQLAlchemy backend components and a Streamlit dashboard for monitoring, forecasting, risk analysis, and</text>
+  <text x="60" y="362" class="body">infrastructure simulations.</text>
+
+  <circle cx="43" cy="396" r="4" fill="#E86AA5"/>
+  <text x="60" y="402" class="body">Research paper submitted to IITCEE 2027.</text>
+</svg>
