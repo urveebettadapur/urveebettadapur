@@ -24,15 +24,35 @@ My interests span **Artificial Intelligence, Machine Learning, Full-Stack Develo
 - Data Analysis & Predictive Modelling
 - Backend Development & API Design
 
-### 🛠️ Tech Stack
 
-**Languages:** Python · Java · C · SQL
+<h3 align="left">🛠️ Languages & Programming</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+</p>
 
-**Web & Backend:** FastAPI · Streamlit · HTML · TypeScript · Next.js
+<h3 align="left">🌐 Web & Backend</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,ts,nextjs" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
-**AI/ML & Data:** Scikit-learn · Pandas · NumPy · Ollama · Vertex AI · RAG
+<h3 align="left">🤖 AI/ML & Data</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
-**Tools & Platforms:** Git · GitHub · AWS · Figma · MySQL
+<h3 align="left">⚙️ Tools & Platforms</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,aws,figma" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
 
 ### 🚀 Featured Projects
 
