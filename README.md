@@ -99,12 +99,12 @@ My interests span **Artificial Intelligence, Machine Learning, Full-Stack Develo
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urveebettadapur&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=urveebettadapur&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=urveebettadapur&show_icons=true&hide_border=true&bg_color=00000000&title_color=DB61A2&icon_color=DB61A2&text_color=9B8290" height="165" />
+  <img src="https://streak-stats.demolab.com?user=urveebettadapur&hide_border=true&background=00000000&ring=DB61A2&fire=DB61A2&currStreakLabel=DB61A2&sideLabels=9B8290&dates=9B8290" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urveebettadapur&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urveebettadapur&layout=compact&hide_border=true&bg_color=00000000&title_color=DB61A2&text_color=9B8290" />
 </p>
 
 ### 📫 Let's Connect
