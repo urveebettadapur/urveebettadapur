@@ -2,7 +2,7 @@
 
 <img src="./assets/neural-network-banner.svg" width="100%" alt="Burgundy and raspberry neural network banner" />
 
-# Hi, I'm Urvee! 👋
+# Hey, Urvee here. 😎
 
 ### Developer | AI/ML Enthusiast | Problem Solver
 
