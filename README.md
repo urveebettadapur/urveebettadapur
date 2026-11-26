@@ -50,71 +50,23 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 </p>
 
 ---
-
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
-<td width="50%" valign="top" bgcolor="#B33875">
-
-<h3 align="center"><font color="#FFF5FA">🧠 BlueJury AI</font></h3>
-<p align="center"><b><font color="#FFF5FA">Multi-Agent Decision & Negotiation System</font></b></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-<img src="https://img.shields.io/badge/Multi--Agent%20AI-52102F?style=flat-square" />
-</p>
-
-- <font color="#FFE4EF">Collaborated on a five-agent juror system helping fishermen identify optimal fishing regions.</font>
-- <font color="#FFE4EF">Managed central orchestration and negotiation, coordinating concurrent agent execution.</font>
-- <font color="#FFE4EF">Designed a four-stage pipeline with typed data contracts.</font>
-- <font color="#FFE4EF">Applied Pareto filtering, weighted utility, hard-veto constraints, and conflict detection.</font>
-
+<td width="50%" valign="top">
+  <img src="./assets/bluejury-ai.svg" width="100%" alt="BlueJury AI project card" />
 </td>
-<td width="50%" valign="top" bgcolor="#B33875">
-
-<h3 align="center"><font color="#FFF5FA">🌍 Digital Citizen Assistant</font></h3>
-<p align="center"><b><font color="#FFF5FA">Multilingual Government Scheme Assistant</font></b></p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nextjs,tailwind" />
-</p>
-
-- <font color="#FFE4EF">Developed the frontend and user experience for a multilingual digital citizen assistant.</font>
-- <font color="#FFE4EF">Enabled discovery of **47 government schemes across 7 languages** through voice and text.</font>
-- <font color="#FFE4EF">Integrated AI-based scheme matching, multilingual interaction, document assistance, and guided application support.</font>
-
-<p align="center">
-<img src="https://img.shields.io/badge/🏆%20Decode%20SIH%202026-Winner-52102F?style=flat-square" />
-</p>
-
+<td width="50%" valign="top">
+  <img src="./assets/digital-citizen-assistant.svg" width="100%" alt="Digital Citizen Assistant project card" />
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" bgcolor="#B33875">
-
-<h3 align="center"><font color="#FFF5FA">📊 PulseOps</font></h3>
-<p align="center"><b><font color="#FFF5FA">Predictive API Intelligence Platform</font></b></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
-
-- <font color="#FFE4EF">Developed a Random Forest forecaster and Isolation Forest anomaly detector.</font>
-- <font color="#FFE4EF">Reduced traffic-forecast MAE by **59.2%** against a persistence baseline at the 12-hour horizon.</font>
-- <font color="#FFE4EF">Detected **40/40 held-out fault events**, compared with 29 detected by a reactive threshold.</font>
-- <font color="#FFE4EF">Implemented FastAPI and SQLAlchemy backend components and a Streamlit dashboard for monitoring, forecasting, risk analysis, and infrastructure simulations.</font>
-- <font color="#FFE4EF">Research paper submitted to **IITCEE 2027**.</font>
-
+<td colspan="2">
+  <img src="./assets/pulseops.svg" width="100%" alt="PulseOps project card" />
 </td>
 </tr>
 </table>
-
 ---
 
 <h2 align="center">🏆 ACHIEVEMENTS & RECOGNITION</h2>
