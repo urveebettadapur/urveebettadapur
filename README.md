@@ -111,10 +111,10 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 
 ---
 
-<h2 align="center">📈 GITHUB STATISTICS</h2>
+## 📈 GITHUB STATISTICS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=urveebettadapur&show_icons=true&hide_border=true&bg_color=00000000&title_color=B33875&icon_color=E86AA5&text_color=CBAACB" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=urveebettadapur&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=B33875&icon_color=E86AA5&text_color=CBAACB" />
   <img height="165" src="https://streak-stats.demolab.com?user=urveebettadapur&hide_border=true&background=00000000&ring=B33875&fire=E86AA5&currStreakLabel=B33875&sideLabels=CBAACB&dates=A77A91" />
 </p>
 
