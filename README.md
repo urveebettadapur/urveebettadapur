@@ -55,34 +55,67 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 
 ## 🚀 Featured Projects
 
-### 🧠 BlueJury AI — Multi-Agent Decision & Negotiation System
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Python · Multi-Agent Systems · Agent Orchestration**
+<h3 align="center">🧠 BlueJury AI</h3>
+<p align="center"><b>Multi-Agent Decision & Negotiation System</b></p>
 
-- Collaborated on a five-agent juror system helping fishermen identify optimal fishing regions while balancing sustainability, safety, fuel capacity, and maritime boundary constraints.
-- Managed the central orchestration and negotiation layer, coordinating concurrent agent execution.
-- Designed a four-stage pipeline: `CaseBundle → JurorScorecards → Negotiation → DecisionBundle`.
-- Applied hard-veto constraints, Pareto filtering, weighted utility, and conflict detection to produce explainable decisions.
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Agent%20AI-9B59B6?style=flat-square" />
+</p>
 
-### 🌍 Digital Citizen Assistant
+- Collaborated on a five-agent juror system helping fishermen identify optimal fishing regions.
+- Managed central orchestration and negotiation, coordinating concurrent agent execution.
+- Designed a four-stage pipeline with typed data contracts.
+- Applied Pareto filtering, weighted utility, hard-veto constraints, and conflict detection.
 
-**JavaScript · TypeScript · Next.js · Tailwind CSS · react-i18next**
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌍 Digital Citizen Assistant</h3>
+<p align="center"><b>Multilingual Government Scheme Assistant</b></p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,nextjs,tailwind" />
+</p>
 
 - Developed the frontend and user experience for a multilingual digital citizen assistant.
-- Enabled discovery of 47 government schemes across seven languages through voice and text.
-- Contributed to AI-based scheme matching, multilingual interaction, document assistance, and guided application support.
-- 🏆 **Winner — Decode SIH 2026, Bharat Pragati Track**
+- Enabled discovery of **47 government schemes across 7 languages** through voice and text.
+- Integrated AI-based scheme matching, multilingual interaction, document assistance, and guided application support.
 
-### 📊 PulseOps — Predictive API Intelligence Platform
+<p align="center">
+<img src="https://img.shields.io/badge/🏆%20Decode%20SIH%202026-Winner-DB61A2?style=flat-square" />
+</p>
 
-**Python · FastAPI · Scikit-learn · SQLAlchemy · Streamlit**
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-- Developed the ML layer using Random Forest forecasting and Isolation Forest anomaly detection.
+<h3 align="center">📊 PulseOps</h3>
+<p align="center"><b>Predictive API Intelligence Platform</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+
+- Developed a Random Forest forecaster and Isolation Forest anomaly detector.
 - Reduced traffic-forecast MAE by **59.2%** against a persistence baseline at the 12-hour horizon.
-- Detected 40/40 held-out fault events compared with 29 detected by a reactive threshold.
-- Implemented backend components and an interactive dashboard for monitoring, risk analysis, forecasting, and infrastructure what-if simulations.
-- 📄 Research paper submitted to **IITCEE 2027**.
+- Detected **40/40 held-out fault events**, compared with 29 detected by a reactive threshold.
+- Implemented FastAPI and SQLAlchemy backend components and a Streamlit dashboard for monitoring, forecasting, risk analysis, and infrastructure simulations.
+- Research paper submitted to **IITCEE 2027**.
 
+</td>
+</tr>
+</table>
 ---
 
 ## 🏆 Achievements & Recognition
