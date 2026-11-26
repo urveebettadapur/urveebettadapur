@@ -1,0 +1,54 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="150" viewBox="0 0 1400 150">
+  <defs>
+    <linearGradient id="footer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#49113F"/>
+      <stop offset="48%" stop-color="#812052"/>
+      <stop offset="100%" stop-color="#C52D78"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="150" fill="url(#footer)"/>
+
+  <g fill="none" stroke="#F8C2D9" stroke-width="1.5" opacity=".8">
+    <path d="M0 10 L105 3 L165 40 L246 15 L246 120 L105 75 L20 120"/>
+    <path d="M105 3 L105 75 L20 120"/>
+  </g>
+
+  <g fill="none" stroke="#4A0A53" stroke-width="1.7" opacity=".8">
+    <path d="M1090 3 L1173 41 L1397 3 L1243 110 L1149 123"/>
+    <path d="M1397 3 L1348 120 L1271 147"/>
+    <path d="M1243 110 L1348 120 L1397 147"/>
+  </g>
+
+  <g fill="none" stroke="#F000A8" stroke-width="1.5" opacity=".8">
+    <path d="M495 5 L430 150"/>
+    <path d="M495 5 L495 150"/>
+    <path d="M495 5 L560 150"/>
+  </g>
+
+  <g fill="#F8C2D9">
+    <circle cx="105" cy="3" r="4"/>
+    <circle cx="165" cy="40" r="3"/>
+    <circle cx="246" cy="15" r="3"/>
+    <circle cx="105" cy="75" r="4"/>
+    <circle cx="20" cy="120" r="3"/>
+  </g>
+  <g fill="#4A0A53">
+    <circle cx="1090" cy="3" r="3"/>
+    <circle cx="1173" cy="41" r="3"/>
+    <circle cx="1397" cy="3" r="4"/>
+    <circle cx="1243" cy="110" r="4"/>
+    <circle cx="1149" cy="123" r="3"/>
+    <circle cx="1348" cy="120" r="4"/>
+    <circle cx="1271" cy="147" r="3"/>
+  </g>
+  <circle cx="495" cy="5" r="4" fill="#F000A8" filter="url(#glow)"/>
+</svg>
