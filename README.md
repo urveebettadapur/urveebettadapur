@@ -1,8 +1,6 @@
  <div align="center">
 
-<a href="https://capsule-render.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18060B,35:3B0A19,70:681A32,100:8E304B&height=220&section=header&text=Urvee%20S%20Bettadapur&fontSize=40&fontColor=FFF5F0&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=16&descColor=E5C5C9" width="100%" />
-</a>
+<img src="./assets/neural-network-banner.svg" width="100%" alt="Urvee S Bettadapur — neural network banner" />
 
 # Hi, I'm Urvee! 👋
 
@@ -16,7 +14,7 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
 ### 💻 Programming Languages
 
@@ -39,7 +37,7 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-681A32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-79245D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
@@ -53,7 +51,7 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
@@ -65,7 +63,7 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-<img src="https://img.shields.io/badge/Multi--Agent%20AI-681A32?style=flat-square" />
+<img src="https://img.shields.io/badge/Multi--Agent%20AI-79245D?style=flat-square" />
 </p>
 
 - Collaborated on a five-agent juror system helping fishermen identify optimal fishing regions.
@@ -88,7 +86,7 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 - Integrated AI-based scheme matching, multilingual interaction, document assistance, and guided application support.
 
 <p align="center">
-<img src="https://img.shields.io/badge/🏆%20Decode%20SIH%202026-Winner-681A32?style=flat-square" />
+<img src="https://img.shields.io/badge/🏆%20Decode%20SIH%202026-Winner-8F1D59?style=flat-square" />
 </p>
 
 </td>
@@ -119,12 +117,12 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 ACHIEVEMENTS & RECOGNITION
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Decode%20SIH%202026-Winner-681A32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BUILD%20Karnataka%202026-Runner--Up-8E304B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BNMIT%20MLOps%202026-1st%20Place-4A1023?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Decode%20SIH%202026-Winner-8F1D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BUILD%20Karnataka%202026-Runner--Up-B52C70?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BNMIT%20MLOps%202026-1st%20Place-63204E?style=for-the-badge" />
 </p>
 
 - 🥇 **Decode SIH 2026** — Winner, Bharat Pragati Track; selected from 15,000+ participants. Received PPI opportunities from CodeMate AI and SwytchCode.
@@ -136,7 +134,7 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 
 ---
 
-## 💼 Experience & Leadership
+## 💼 EXPERIENCE & LEADERSHIP
 
 **Full-Stack Intern — ERA Foundation**  
 *October 2026 – Present*
@@ -150,31 +148,31 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 
 ---
 
-## 📜 Certifications
+## 📜 CERTIFICATIONS
 
 <p align="left">
   <img src="https://img.shields.io/badge/Anthropic-AI%20Fluency-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM-Responsible%20AI-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-Generative%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Simplilearn-RAG%20Course-681A32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Simplilearn-RAG%20Course-8F1D59?style=for-the-badge" />
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GITHUB STATISTICS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=urveebettadapur&show_icons=true&hide_border=true&bg_color=00000000&title_color=982E4B&icon_color=C18A78&text_color=B99AA3" />
-  <img height="165" src="https://streak-stats.demolab.com?user=urveebettadapur&hide_border=true&background=00000000&ring=982E4B&fire=C18A78&currStreakLabel=982E4B&sideLabels=B99AA3&dates=B99AA3" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=urveebettadapur&show_icons=true&hide_border=true&bg_color=00000000&title_color=E83E83&icon_color=BD4D9A&text_color=CBAACB" />
+  <img height="165" src="https://streak-stats.demolab.com?user=urveebettadapur&hide_border=true&background=00000000&ring=E83E83&fire=BD4D9A&currStreakLabel=E83E83&sideLabels=CBAACB&dates=AA83A8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urveebettadapur&layout=compact&hide_border=true&bg_color=00000000&title_color=982E4B&text_color=B99AA3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urveebettadapur&layout=compact&hide_border=true&bg_color=00000000&title_color=E83E83&text_color=CBAACB" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.linkedin.com/in/urvee-s-bettadapur-37786332b/">
@@ -195,5 +193,5 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18060B,35:3B0A19,70:681A32,100:8E304B&height=120&section=footer" width="100%" />
+  <img src="./assets/neural-network-footer.svg" width="100%" alt="Neural network footer" />
 </div>
