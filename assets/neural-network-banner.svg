@@ -1,0 +1,78 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="350" viewBox="0 0 1400 350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#49113F"/>
+      <stop offset="48%" stop-color="#812052"/>
+      <stop offset="100%" stop-color="#C52D78"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="350" fill="url(#bg)"/>
+
+  <!-- Left network -->
+  <g fill="none" stroke="#F8C2D9" stroke-width="1.5" opacity=".8">
+    <path d="M0 15 L104 3 L163 35 L246 40 L246 214 L103 116 L19 153 L52 183 L246 214"/>
+    <path d="M104 3 L103 116 L0 178"/>
+    <path d="M163 35 L246 214"/>
+    <path d="M0 15 L103 116"/>
+    <path d="M19 153 L103 116"/>
+  </g>
+
+  <!-- Right network -->
+  <g fill="none" stroke="#4A0A53" stroke-width="1.7" opacity=".8">
+    <path d="M1092 3 L1173 41 L1397 3 L1243 110 L1149 123 L1173 41"/>
+    <path d="M1092 3 L1397 3 L1348 253 L1271 307"/>
+    <path d="M1397 3 L1243 110 L1348 253 L1397 307"/>
+    <path d="M1149 123 L1243 110"/>
+    <path d="M1348 253 L1397 307"/>
+  </g>
+
+  <!-- Lower central connections -->
+  <g fill="none" stroke="#F000A8" stroke-width="1.5" opacity=".8">
+    <path d="M495 192 L430 350"/>
+    <path d="M495 192 L495 350"/>
+    <path d="M495 192 L560 350"/>
+    <path d="M495 192 L620 350"/>
+    <path d="M495 192 L375 350"/>
+  </g>
+
+  <!-- Nodes -->
+  <g fill="#F8C2D9">
+    <circle cx="104" cy="3" r="4"/>
+    <circle cx="163" cy="35" r="3"/>
+    <circle cx="246" cy="40" r="3"/>
+    <circle cx="103" cy="116" r="4"/>
+    <circle cx="52" cy="183" r="3"/>
+    <circle cx="246" cy="214" r="4"/>
+  </g>
+  <g fill="#4A0A53">
+    <circle cx="1092" cy="3" r="3"/>
+    <circle cx="1173" cy="41" r="3"/>
+    <circle cx="1397" cy="3" r="4"/>
+    <circle cx="1243" cy="110" r="4"/>
+    <circle cx="1149" cy="123" r="3"/>
+    <circle cx="1348" cy="253" r="4"/>
+    <circle cx="1271" cy="307" r="3"/>
+    <circle cx="1397" cy="307" r="3"/>
+  </g>
+  <g fill="#F000A8" filter="url(#glow)">
+    <circle cx="495" cy="192" r="4"/>
+  </g>
+
+  <!-- Title -->
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="1000" y="171" fill="#FFF7FA" font-size="54" font-weight="800" letter-spacing="1.5">URVEE S BETTADAPUR</text>
+    <rect x="700" y="208" width="198" height="50" rx="25" fill="#FFC2D8"/>
+    <text x="799" y="240" fill="#5B164C" font-size="20" font-weight="700">AI  /  ML</text>
+    <rect x="898" y="208" width="406" height="50" rx="25" fill="#741A58" opacity=".9"/>
+    <text x="1101" y="240" fill="#F7B4D0" font-size="19" font-weight="600" letter-spacing="1">FULL-STACK DEVELOPMENT</text>
+  </g>
+</svg>
