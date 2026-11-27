@@ -67,38 +67,6 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 </td>
 </tr>
 </table>
----
-
-<h2 align="center">🏆 ACHIEVEMENTS & RECOGNITION</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Decode%20SIH%202026-Winner-B33875?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BUILD%20Karnataka%202026-Runner--Up-8F1D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BNMIT%20MLOps%202026-1st%20Place-52102F?style=for-the-badge" />
-</p>
-
-- 🥇 **Decode SIH 2026** — Winner, Bharat Pragati Track; selected from 15,000+ participants. Received PPI opportunities from CodeMate AI and SwytchCode.
-- 🥈 **BUILD Karnataka 2026** — Runner-Up; ₹10,000 prize for KriyaSense, an AI-based exercise assessment and coaching application.
-- 🥇 **BNMIT × Avinya TechKnows MLOps Hackathon 2026** — 1st Place.
-- 🎖️ **Medha Medithon 2026** — Top 50 National Shortlist.
-- 🥇 **IPL Project Exhibition 2026** — 1st Place.
-- 🎓 **Academics** — CGPA 9.89; Class XII State Rank 13; merit-based scholarships in the first two semesters.
-
----
-
-<h2 align="center">💼 EXPERIENCE & LEADERSHIP</h2>
-
-**Full-Stack Intern — ERA Foundation**  
-*October 2026 – Present*
-
-- Designed 56 Figma frames for the frontend of field-officer workflows in the Krishikan website rework, planned for Angular development.
-
-**Webmaster — IEEE Computer Society, Bangalore Chapter**  
-*October 2025 – Present*
-
-- Coordinating technical events, promotions, documentation, and IEEE vTools workflows.
-
----
 
 <h2 align="center">📜 CERTIFICATIONS</h2>
 
