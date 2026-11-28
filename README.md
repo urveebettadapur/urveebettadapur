@@ -1,7 +1,5 @@
  <div align="center">
 
-<img src="./assets/neural-network-banner.svg" width="100%" alt="Burgundy and raspberry neural network banner" />
-
 # Hey, Urvee here. 😎
 
 ### Developer | AI/ML Enthusiast | Problem Solver
@@ -113,5 +111,3 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 </p>
 
 <div align="center">
-  <img src="./assets/neural-network-footer.svg" width="100%" alt="Burgundy neural network footer" />
-</div>
