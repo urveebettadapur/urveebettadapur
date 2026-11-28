@@ -88,6 +88,17 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 </p>
 
 ---
+<h2 align="center">🐍 CONTRIBUTION GRAPH</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urveebettadapur/urveebettadapur/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/urveebettadapur/urveebettadapur/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/urveebettadapur/urveebettadapur/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
 
 <h2 align="center">🔗 CONNECT WITH ME</h2>
 
