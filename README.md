@@ -80,12 +80,11 @@ I'm a developer driven by curiosity, ambition, and the pursuit of excellence. I 
 ## 📈 GITHUB STATISTICS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=urveebettadapur&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=B33875&icon_color=E86AA5&text_color=CBAACB" />
-  <img height="165" src="https://streak-stats.demolab.com?user=urveebettadapur&hide_border=true&background=00000000&ring=B33875&fire=E86AA5&currStreakLabel=B33875&sideLabels=CBAACB&dates=A77A91" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=urveebettadapur&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=800020&icon_color=9B2948&text_color=B07A89" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urveebettadapur&layout=compact&hide_border=true&bg_color=00000000&title_color=B33875&text_color=CBAACB" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urveebettadapur&layout=pie&hide_border=true&bg_color=00000000&title_color=800020&text_color=B07A89" />
 </p>
 
 ---
